@@ -1,0 +1,7 @@
+{
+  "name": "qrcode-games-generator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

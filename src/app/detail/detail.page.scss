@@ -1,0 +1,27 @@
+ion-content.background{
+    --ion-background-color: white;
+}
+
+ion-title.large-title {
+    color: purple;
+    font-size: 30px;
+}
+ion-textarea.placecolor{
+    color:  black;
+    font-size: 1.2em;
+}
+
+ion-button:focus
+{
+ --border-color: purple;
+}
+
+.my-label {
+    font-size: 1.1em;
+}
+
+.my-label2 {
+    font-size: 0.9em;
+}
+
+ion-item{ --border-color: white; }
