@@ -5,11 +5,17 @@ Experiência do usuário PJ ao verificar eligibilidade para um novo empréstimo 
 SETUP - WINDOWS 10
 
 1 - git bash num diretorio
+
 2 - git clone do repo
+
 3 - abrir windows shell como administrador
+
 4 - aplicar Set-ExecutionPolicy RemoteSigned -> A
+
 5 - no git, "cd Nubank-App-Feature-FIAP"
+
 6 - no terminal, rodar ionic serve
+
 7 - verificar no browser através de "http://localhost:8081"
 
 Obs.: Foram mapeadas as seguintes paginas:
