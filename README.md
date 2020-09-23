@@ -19,6 +19,9 @@ SETUP - WINDOWS 10
 7 - verificar no browser através de "http://localhost:8081"
 
 Obs.: Foram mapeadas as seguintes paginas:
+
 /detail --> Detalhe do emprestimo disponivel após analise do microsserviço assim como a lista dos anteriores
+
 /accept --> mensagem de aceite de novo emprestimo
+
 /negateve --> respota negativa após analise do microsserviço
