@@ -20,11 +20,14 @@ SETUP - WINDOWS 10
 
 Obs.: Foram mapeadas as seguintes paginas:
 
+/home --> tela de teste, favor desconsiderar.
+
 /detail --> Detalhe do emprestimo disponivel após analise do microsserviço assim como a lista dos anteriores
 
 /accept --> mensagem de aceite de novo emprestimo
 
-/negateve --> respota negativa após analise do microsserviço
+/negative --> respota negativa após analise do microsserviço
+
 
 
 
