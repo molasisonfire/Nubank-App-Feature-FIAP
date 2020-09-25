@@ -25,3 +25,10 @@ Obs.: Foram mapeadas as seguintes paginas:
 /accept --> mensagem de aceite de novo emprestimo
 
 /negateve --> respota negativa após analise do microsserviço
+
+
+
+
+----------------------------------------------------------------------------
+
+Para que o FRONT use o microsserviço, basta substituir o caminho do microsserviço na URL e gerar o model de retorno para colocar na condição da página/serviço.
